@@ -9,10 +9,12 @@
 }
 
 .site-title {
-    font-size: 48px;
-    font-weight: 300;
+    font-family: $title-font-family;
+    font-size: 145px;
+    font-weight: 700;
     line-height: 128px;
     margin-bottom: 0;
+    text-transform: uppercase;
 
     &,
     &:visited {
