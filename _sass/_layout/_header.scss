@@ -3,6 +3,7 @@
  */
 .site-header {
     min-height: 56px;
+    margin-top: 50px;
 
     // Positioning context for the mobile navigation icon
     position: relative;
@@ -12,8 +13,8 @@
     font-family: $title-font-family;
     font-size: 145px;
     font-weight: 700;
-    line-height: 245px;
-    margin-top: 30px;
+    line-height: 145px;
+
     margin-bottom: 0;
     text-transform: uppercase;
 
